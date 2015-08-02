@@ -6,6 +6,8 @@ Para ampliar información en español vaya a http://blogfacade.wordpress.com/
 
 It focuses on encouraging learners to communicate with each other and the language instructor through community driven learning activities. This way, students interact, amongst each other, by sharing, assessing and co-constructing their knowledge based on a highly interactive, ubiquitous and constructive learning approach that the APP implements.
 
+This project has been funded in University of Cadiz programme for Researching and Innovation in Education 2014/15, under the "El aprendizaje ubicuo y comunitario de lenguas extranjeras con el uso de una app gamificada, una evaluación por pares y algoritmos inteligentes" project (code sol-201400047372-tra)
+
 You can download it from:
 https://play.google.com/store/apps/details?id=es.uca.tabu
 
